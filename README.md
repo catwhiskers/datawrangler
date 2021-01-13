@@ -2,7 +2,7 @@
 
 ## Prepare Data 
 1. Use titanic data on [kaggle](https://www.kaggle.com/c/titanic/data) 
-1. Create S3 bucket - dw-titanic-<id>
+1. Create S3 bucket - dw-titanic-\<id\>
 1. Upload our titanic data   
   
 ## Import Data 
