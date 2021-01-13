@@ -1,5 +1,7 @@
 # datawrangler
 
+Reference to: https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-data-wrangler-a-visual-interface-to-prepare-data-for-machine-learning/ 
+
 ## Prepare Data 
 1. Use titanic data on [kaggle](https://www.kaggle.com/c/titanic/data) 
 1. Create S3 bucket - dw-titanic-\<id\>
