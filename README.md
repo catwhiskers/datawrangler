@@ -29,6 +29,7 @@ Reference to: https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-data
 
 ## Try Analysis Again 
 1. Use Quick Model how we are doing again 
+2. Actually we can do analysis anywhere:) 
 
 ## Export 
 1. To data wrangler flow 
